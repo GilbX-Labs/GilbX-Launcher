@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="GilbX.Core/GilbX.Core.csproj" />
+  <Project Path="GilbX.Launcher/GilbX.Launcher.csproj" />
+  <Project Path="GilbX.Unpacker/GilbX.Unpacker.csproj" />
+</Solution>
